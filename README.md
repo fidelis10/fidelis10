@@ -23,6 +23,7 @@ Estou atualmente focado em projetos envolvendo **IoT**, **automação** e **solu
 
 - **Telefone**: (11) 96614-3935
 - **E-mail**: [lucas.fidelis@icloud.com](mailto:lucas.fidelis@icloud.com)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_fidelis10/)
 
 
 ---
