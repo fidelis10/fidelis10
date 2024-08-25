@@ -13,17 +13,19 @@ Estou atualmente focado em projetos envolvendo **IoT**, **automação** e **solu
 - **[Exercicios em Pyhton.pt3](https://github.com/fidelis10/Exercicios-feitos-python-usando-if-else)**: Exercicios Python.
 - **[C++](https://github.com/fidelis10/Senai-Codigos)**: Codigo em c++ juntamente com mqtt server.
 
-## 🛠️ Habilidades
-
-- **Linguagens**: C++, Python(Básico)
-- **Tecnologias**: Node-RED, MQTT, ESP32
-- **Ferramentas**: Visual Studio Code, PlatformIO
+## Tecnologias que eu utilizo
+<div style= "display: inline_block"><br/>
+  <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+</div>
 
 ## 💬 Contato
 
 - **Telefone**: (11) 96614-3935
 - **E-mail**: [lucas.fidelis@icloud.com](mailto:lucas.fidelis@icloud.com)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_fidelis10/)
+- [![Instagram](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]
 
 
 ---
