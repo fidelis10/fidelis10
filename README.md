@@ -30,4 +30,4 @@ Estou atualmente focado em projetos envolvendo **IoT**, **automação** e **solu
 ---
 
 **Obrigado por visitar meu perfil!** 
-Estou a cada dia mais em busca da evolução. Caso queira conversar sobre meus projetos, dúvidas sobre meus códigos ou so bater um papo, fique a vontade para me contatar!!
+Estou a cada dia mais em busca da evolução. Caso queira conversar sobre meus projetos, dúvidas sobre meus códigos ou somente bater um papo, fique a vontade para me contatar!!
