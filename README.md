@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou estudante de ADS(Análise e Desenvolvimento de Sistemas) na USCS(Universidade Municipal de São Caetano do Sul), com 19 anos e sempre se aperfeiçoando sobre programação back-end
+Meu nome é Lucas Fidelis de Lima, tenho 19 anos e sou estudante de ADS(Análise e Desenvolvimento de Sistemas) na USCS(Universidade Municipal de São Caetano do Sul), buscando sempre se aperfeiçoar sobre programação back-end
 
 ## 🚀 Tarefas ja realizadas
 Estou atualmente focado em projetos envolvendo **IoT**, **automação** e **soluções em nuvem**.
