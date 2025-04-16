@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou um estudante de **Senai CAI - Integrador de Soluções em Nuvem** com 18 anos, sempre buscando aprender e aplicar novas tecnologias. 
+Sou estudante de ADS(Análise e Desenvolvimento de Sistemas) na USCS(Universidade Municipal de São Caetano do Sul), com 19 anos e sempre se aperfeiçoando sobre programação back-end
 
 ## 🚀 Tarefas ja realizadas
 Estou atualmente focado em projetos envolvendo **IoT**, **automação** e **soluções em nuvem**.
